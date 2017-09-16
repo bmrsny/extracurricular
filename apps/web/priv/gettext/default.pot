@@ -29,6 +29,9 @@ msgstr "Starter"
 msgid "difficulty-unknown"
 msgstr "Unknown"
 
+msgid "type-bug"
+msgstr "Bug"
+
 msgid "type-documentation"
 msgstr "Documentation"
 
